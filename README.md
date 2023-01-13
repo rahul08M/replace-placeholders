@@ -16,3 +16,8 @@ input 2
 replace_variables("Hard work is worthless for those that don't believe in themselves. – {{var:ninja_name:'Ninja'}}", {'ninja_name': 'Naruto Uzumaki'})
 >>> Hard work is worthless for those that don't believe in themselves. – Naruto Uzumaki
 ```
+
+#### Use cases
+1. Email templates
+2. Dynamic messages
+3. CMS
