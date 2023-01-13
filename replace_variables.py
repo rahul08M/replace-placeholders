@@ -1,7 +1,7 @@
 import re
 import ast
 
-def replace_variables(input_string, data): 
+def replace_variables(input_string, data):   
 
     def replacer_meta(match):
         content = match.group(1)
@@ -26,4 +26,5 @@ print(s2)
 Hey, Kakashi show me your justu !!!
 Hard work is worthless for those that don't believe in themselves. – Naruto Uzumaki
 '''
+
 
