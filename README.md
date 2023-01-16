@@ -21,3 +21,4 @@ replace_variables("Hard work is worthless for those that don't believe in themse
 1. Email templates
 2. Dynamic messages
 3. CMS
+
