@@ -10,7 +10,7 @@
 
 input 1
 replace_variables("Hey, {{var:ninja_name:'Ninja'}} show me your justu !!!", {'ninja_name': 'Kakashi'})
->>> Hey, Kakashi show me your justu !!!
+>>> Hey, Kakashi show me your justu !!!  
 
 input 2
 replace_variables("Hard work is worthless for those that don't believe in themselves. – {{var:ninja_name:'Ninja'}}", {'ninja_name': 'Naruto Uzumaki'})
