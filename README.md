@@ -1,6 +1,6 @@
 # replace-placeholders
 
-#### A method to replace placeholders or variable placed into the string.
+#### A method to replace placeholders or variable placed into the string
 
 ```
 # string : Hey, {{var:ninja_name:'Ninja'}} show me your justu !!!
